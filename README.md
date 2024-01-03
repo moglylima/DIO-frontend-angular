@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/moglesonlima/DIO-frontend-angular/blob/master/bootcamp-logo.png" width="350" title="hover text">
+</p>
+
+![Logo BootCamp](https://github.com/moglesonlima/DIO-frontend-angular/blob/master/bootcamp-logo.png)
 # Desenvolvimento Frontend com Angular
 ### Acerca do programa: 
 Programa de formação voltado aos principios do desenvolvimento web utilizando Angular. 
