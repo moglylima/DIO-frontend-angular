@@ -3,8 +3,8 @@ Formação ofertada pela Digital Innovation One em parceria com o Banco PAN. A f
 
 ### Conteúdos abordados:
 1. **Princípios do desenvolvimento colaborativo:**
-    - Versionamento de código com Git e GitHub;
-    - Contribuindo para um projeto Open Source no GitHub;
+    - [ ] Versionamento de código com Git e GitHub;
+    - [ ] Contribuindo para um projeto Open Source no GitHub;
 
 2. **Fundamentos de Front-End**
     - [ ] Introdução a criação de Websites com HTML e CSS;
