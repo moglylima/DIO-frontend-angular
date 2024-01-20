@@ -7,32 +7,32 @@ Formação ofertada pela Digital Innovation One em parceria com o Banco PAN. A f
     - Contribuindo para um projeto Open Source no GitHub;
 
 2. **Fundamentos de Front-End**
-    - Introdução a criação de Websites com HTML e CSS;
-    - Introdução a JavaScript:
-        - Primeiros passos;
-        - Funções;
-        - Objetos e Classes;
-        - Arrays e estruturas de repetição;
-        - Importação e exportação;
-        - Introdução a desenvolvimento web com JavaScript;
-    - Projeto HTML e CSS, listagem de Pokemons;
-    - Protocolo HTTP, integração com API;
-    - Construindo uma pokedex com JavaScript;
+    - [ ] Introdução a criação de Websites com HTML e CSS;
+    - [ ] Introdução a JavaScript:
+        - [ ] Primeiros passos;
+        - [ ] Funções;
+        - [ ] Objetos e Classes;
+        - [ ] Arrays e estruturas de repetição;
+        - [ ] Importação e exportação;
+        - [ ] Introdução a desenvolvimento web com JavaScript;
+    - [ ] Projeto HTML e CSS, listagem de Pokemons;
+    - [ ] Protocolo HTTP, integração com API;
+    - [ ] Construindo uma pokedex com JavaScript;
  
 3. **Fundamentos do Angular Framework:**
-   - Web Components Front-End;
-   - TypeScript para Angular;
-   - Introdução ao ecossistema Angular;
-   - Trabalhando com Components Angular;
+   - [ ] Web Components Front-End;
+   - [ ] TypeScript para Angular;
+   - [ ] Introdução ao ecossistema Angular;
+   - [ ] Trabalhando com Components Angular;
 
 4. **Explorando Agular framework:**
-    - LifeCycle Hooks Angular;
-    - Single Page Applications com Angular;
-    - Módulos Angular;
-    - Criando um blog com Angular;
-    - Trabalhando com Rotas no Angular;
-    - Trabalhando com Sevices no Angular;
-    - Criando um Clone do BuzzFeed com Angular;
+    - [ ] LifeCycle Hooks Angular;
+    - [ ] Single Page Applications com Angular;
+    - [ ] Módulos Angular;
+    - [ ] Criando um blog com Angular;
+    - [ ] Trabalhando com Rotas no Angular;
+    - [ ] Trabalhando com Sevices no Angular;
+    - [ ] Criando um Clone do BuzzFeed com Angular;
 
 ### Acerca da estrutura de diretórios
 
